@@ -1,0 +1,4 @@
+jupyterlab
+matplotlib
+pandas
+theseus_growth
